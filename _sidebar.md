@@ -1,11 +1,14 @@
 <!-- docs/_sidebar.md -->
 
-* [Начало работы](getting-started.md)
+- Начало работы
+	- [Создание первого курса](first-course.md)
+	- [Установка и изменение пароля](password.md)
 - Настройка Оплаты
 	- [YooKassa](yookassa.md)
 	- [Ручная оплата](manual-payment.md)
-- Создание Курса
+- Настройки бота
+	- [Telegram](telegrambot.md)
+- Создание курса
 	- [Создание курса](yookassa.md)
 	- [Создание урока](yookassa.md)
-	- [Настройки курса](manual-payment.md)
 	- [Публикация](manual-payment.md)

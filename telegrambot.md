@@ -17,10 +17,12 @@
 
 <img src="https://storage.yandexcloud.net/kampus-help/secretbot.png" style="zoom:50%;" />
 
+------
+
 <img src="https://storage.yandexcloud.net/kampus-help/botsetttingssave.png" style="zoom:50%;" />
 
 6. Теперь ваш курс доступен. Можете зайти в него — он уже работает!
-7. Не забудьте добавить аватарку бота. Перейдите в BotFather, наберите /mybots, Выберите своего бота. Далее, нажмите Edit Bot и Edit Botpic
+7. Не забудьте добавить аватарку бота. Перейдите в *BotFather*, наберите */mybots*, Выберите своего бота. Далее, нажмите *Edit Bot* и *Edit Botpic*
 
 <img src="https://storage.yandexcloud.net/kampus-help/botpic.png" style="zoom:50%;" /> 
 

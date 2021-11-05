@@ -9,6 +9,6 @@
 - Настройки бота
 	- [Telegram](telegrambot.md)
 - Создание курса
-	- [Создание курса](yookassa.md)
+	- [Создание курса](course-creation.md)
 	- [Создание урока](modules-lessons.md)
 	- [Публикация](course-publication.md)

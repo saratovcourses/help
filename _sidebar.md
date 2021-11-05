@@ -10,5 +10,5 @@
 	- [Telegram](telegrambot.md)
 - Создание курса
 	- [Создание курса](course-creation.md)
-	- [Создание урока](modules-lessons.md)
+	- [Создание урока](lessons.md)
 	- [Публикация](course-publication.md)

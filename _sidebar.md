@@ -11,4 +11,4 @@
 - Создание курса
 	- [Создание курса](yookassa.md)
 	- [Создание урока](modules-lessons.md)
-	- [Публикация](manual-payment.md)
+	- [Публикация](course-publication.md)
